@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Exponential Volume Slider
 // @namespace    https://www.tampermonkey.net/
-// @version      1.0
+// @version      1.1.0
 // @description  Makes the YouTube video volume slider exponential so it's easier to select lower volumes.
 // @author       Lukas Reinert
 // @icon         https://www.youtube.com/img/favicon.ico
